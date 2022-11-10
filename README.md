@@ -1,6 +1,4 @@
 [![MasterHead](https://github.com/KuralGfx/Kuralgfx/blob/main/banner_kural.gif)](https://KuralGfx.io) 
-<h1 align="center">Hi 👋, I'm KuralGfx</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/963899883201388594/1040061955165126677/Kural_cartoon2.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuralgfx&label=Profile%20views&color=0e75b6&style=flat" alt="kuralgfx" /> </p>
