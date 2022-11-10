@@ -1,4 +1,4 @@
-[![MasterHead]()](https://KuralGfx.io)
+[![MasterHead](https://cdn.discordapp.com/attachments/963899883201388594/1035721277052301323/banner_github.png)](https://KuralGfx.io) 
 <h1 align="center">Hi 👋, I'm KuralGfx</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/963899883201388594/1040061955165126677/Kural_cartoon2.png">
