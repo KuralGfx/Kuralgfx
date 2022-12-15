@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/giorgiopiu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giorgiopiu/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/giorgio-piu/100084449904825/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/giorgio-piu/100084449904825/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Giorgio-Piu/100084449904825/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/giorgio-piu/100084449904825/" height="30" width="40" /></a>
 <a href="https://instagram.com/giorgio_piu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giorgio_piu" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/rmcmzYaB5z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rmcmzYaB5z" height="30" width="40" /></a>
 </p>
