@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/KuralGfx/Kuralgfx/blob/main/banner_kural.png)](https://KuralGfx.io) 
 
 <h3 align="center">Web/mobile developer from Cagliari, Sardinia, Italy</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuralgfx&label=Profile%20views&color=0e75b6&style=flat" alt="kuralgfx" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kuralgfx&label=Profile%20views&color=0e75b6&style=flat" alt="kuralgfx" /></p>
 
 - 🔭 I am currently doing an internship with [Abinsula](https://abinsula.com/)
 
