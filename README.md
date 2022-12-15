@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuralgfx&label=Profile%20views&color=0e75b6&style=flat" alt="kuralgfx" /></p>
 
-- 🔭 I’m currently working on [Wolf Development](http://wolfdevelopment.it/)
+- 🔭 I am currently doing an internship with [Abinsula](https://abinsula.com/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **TypeScript, JavaScript**
 
 - 👯 I’m looking to collaborate on [Wolf Development](http://wolfdevelopment.it/)
 
 - 👨‍💻 All of my projects are available at [https://kuralgfx.shop/](https://kuralgfx.shop/)
 
-- 💬 Ask me about **Html, css, Js, React, SQL,**
+- 💬 Ask me about **Html, css, Js, React, SQL, ReactJs**
 
 - 📫 How to reach me **kuralwhitee@gmail.com**
 
