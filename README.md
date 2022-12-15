@@ -5,7 +5,7 @@
 
 - 🔭 I am currently doing an internship with [Abinsula](https://abinsula.com/)
 
-- 🌱 I’m currently learning **TypeScript, JavaScript**
+- 🌱 I’m currently learning **TypeScript, JavaScript, ReactJs**
 
 - 👯 I’m looking to collaborate on [Wolf Development](http://wolfdevelopment.it/)
 
