@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/KuralGfx/Kuralgfx/blob/main/banner_kural.gif)](https://KuralGfx.io) 
+[![MasterHead](https://github.com/KuralGfx/Kuralgfx/blob/main/banner_kural.png)](https://KuralGfx.io) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuralgfx&label=Profile%20views&color=0e75b6&style=flat" alt="kuralgfx" /></p>
