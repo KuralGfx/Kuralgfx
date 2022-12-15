@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Wolf Development](http://wolfdevelopment.it/)
 
-- 👨‍💻 All of my projects are available at [https://kuralgfx.shop/](https://kuralgfx.shop/)
+- 👨‍💻 All of my projects are available at [kuralgfx.shop](https://kuralgfx.shop/)
 
 - 💬 Ask me about **Html, css, Js, React, SQL, ReactJs**
 
