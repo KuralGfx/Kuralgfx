@@ -7,9 +7,7 @@
 <h5 align="center">
 I am currently doing an internship with <br> https://abinsula.com/
 </h5>
-<h5 align="center">
-I’m currently learning <br> TypeScript, JavaScript, ReactJs
-</h5>
+
 <h5 align="center">
  I am the CEO of the community of <br> http://wolfdevelopment.it/
 </h5>
