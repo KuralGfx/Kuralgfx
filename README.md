@@ -12,8 +12,9 @@ I am currently doing an internship with <br> https://abinsula.com/
  I am the CEO of the community of <br> http://wolfdevelopment.it/
 </h5>
 <h5 align="center">
-All of my projects are available at <br> https://kuralgfx.shop/
+All of my projects are available at
 </h5>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/963899883201388594/1054516158105141329/qr_web_kural.png"></p>
 
 <h5 align="center">
 How to reach me <br>kuralwhitee@gmail.com 
@@ -28,5 +29,5 @@ How to reach me <br>kuralwhitee@gmail.com
 <a href="https://www.facebook.com/people/Giorgio-Piu/100084449904825/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/giorgio-piu/100084449904825/" height="30" width="40" /></a>
 <a href="https://instagram.com/giorgio_piu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giorgio_piu" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/rmcmzYaB5z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rmcmzYaB5z" height="30" width="40" /></a></p>
-<p align="center"><img src="https://cdn.discordapp.com/attachments/963899883201388594/1054516158105141329/qr_web_kural.png"></p>
+
 
