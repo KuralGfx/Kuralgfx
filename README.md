@@ -14,7 +14,7 @@ I am currently doing an internship with <br> https://abinsula.com/
 <h5 align="center">
 All of my projects are available at
 </h5>
-<p align="center"><img src="https://cdn.discordapp.com/attachments/963899883201388594/1054516158105141329/qr_web_kural.png"></p>
+<p align="center">https://kuralgfx.shop/</p>
 
 <h5 align="center">
 How to reach me <br>kuralwhitee@gmail.com 
