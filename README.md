@@ -4,9 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kuralgfx&label=Profile%20views&color=0e75b6&style=flat" alt="kuralgfx" /></p>
 <h3 align="center">Web/Mobile Developer and Graphic Designer<br> from <br>Cagliari, Sardinia, Italy</h3>
 
-<h5 align="center">
-I am currently doing an internship with <br> https://abinsula.com/
-</h5>
 
 <h5 align="center">
  I am the CEO of the community of <br> http://wolfdevelopment.it/
