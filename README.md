@@ -11,10 +11,10 @@
 <h5 align="center">
 All of my projects are available at
 </h5>
-<p align="center">https://kuralgfx.shop/</p>
+<p align="center">https://kural.it/</p>
 
 <h5 align="center">
-How to reach me <br>kuralwhitee@gmail.com 
+How to reach me <br>giorgio.piu98@gmail.com
   </h5>
 
 <h3 align="center">Languages and Tools:</h3>
