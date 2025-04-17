@@ -1,66 +1,70 @@
-<h1 align="center">🚀 Giorgio Serghei Piu</h1>
-<h3 align="center">👨‍💻 Web Developer & 🎨 Graphic Designer from Cagliari, Italy</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Ciao%2C+sono+Giorgio+Serghei+Piu!;Full-Stack+Developer+%26+Graphic+Designer;Da+Cagliari%2C+Italia+🇮🇹" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giorgioserghei" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=giorgioserghei&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Code%20with-PASSION-%23ff006e?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Made%20in-Sardinia-%23007aff?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coffee%20Lover-%E2%98%95-%233c3c3c?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 Chi sono
 
-💻 Sviluppatore **Full-Stack** e **Graphic Designer** con oltre **8 anni di esperienza** nel settore digitale.
+👨‍💻 **Sviluppatore Web Full-Stack** & **Graphic Designer**.  
+🎨 Creo interfacce moderne, responsive e pensate per l'utente.  
+🔧 Esperto nella gestione tecnica di siti, server, domini, email e assistenza informatica.  
 
-🎯 Mi occupo di:
-- Sviluppo Front-End e Back-End
-- UI/UX Design moderno e funzionale
-- Gestione domini, hosting, database e servizi IT
-- Consulenza e assistenza tecnica per professionisti e aziende
-
-💡 Credo nella perfetta unione tra **estetica e performance**, creando soluzioni web **responsive**, **ottimizzate** e **su misura**.
+> **"Code is poetry, design is soul."**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,bootstrap,wordpress,flutter,dart,postman" alt="Tech Icons" />
 </p>
 
 ---
 
-### 📌 Highlights
+### 🛠️ Design & Tools
 
-- 🔧 WordPress expert (Kubio, Elementor, custom themes)
-- 🧩 UI/UX sempre pensata per l’utente
-- 🔐 Gestione tecnica avanzata: PEC, DNS, mail aziendali
-- 🛠️ Assistenza IT e soluzioni digitali su misura
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,vscode,github,git" />
+</p>
 
 ---
 
+### ⚙️ Cosa so fare
+
+- ⚡ Sviluppo Front-end (HTML, CSS, JS, React)
+- 🧩 WordPress Expert (Kubio, Elementor, temi custom)
+- 🖌️ UI/UX design intuitivo e moderno
+- 📡 Backend con PHP & MySQL
+- 🔐 Configurazione DNS, mail aziendali, PEC
+- 🧰 Assistenza tecnica, hosting e gestione domini
+
+---
+
+### 📈 GitHub Stats (dark mode)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=440&lines=Creatività+%2B+Codice+%3D+❤️;Pixel+Perfect+%2B+Performance+%3D+🚀;Design+funzionale+e+intuitivo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giorgioserghei&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=giorgioserghei&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+### 💬 Contatti
+
+<p align="center">
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-ff3860?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/giorgioserghei" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ Powered by passion, creativity... and ☕ coffee.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:3A0CA3&height=120&section=footer"/>
 </p>
