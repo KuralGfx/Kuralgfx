@@ -1,12 +1,5 @@
-<h1 align="center">Giorgio Piu</h1>
+<h1 align="center">Giorgio Serghei Piu</h1>
 <h3 align="center">Full-Stack Web Developer & Graphic Designer from Cagliari, Italy</h3>
-
----
-
-<p align="center">
-🌐 <a href="https://gsp.wuaze.com">Website</a> • 📧 giorgio.piu98@gmail.com  
-</p>
-
 ---
 
 ### 👨‍💻 About Me
