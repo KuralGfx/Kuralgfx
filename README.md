@@ -47,12 +47,13 @@
 
 ---
 
-### 📈 GitHub Stats (dark mode)
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giorgioserghei&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=giorgioserghei&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=giorgioserghei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=giorgioserghei&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
