@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Giorgio+Serghei+Piu!;Developer+%26+Designer;Da+Cagliari%2C+Italia+🇮🇹" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20with-PASSION-%23ff006e?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Made%20in-Sardinia-%23007aff?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coffee%20Lover-%E2%98%95-%233c3c3c?style=for-the-badge"/>
-</p>
-
----
-
 ### 🧠 Chi sono
 
 👨‍💻 **Sviluppatore Web Full-Stack** & **Graphic Designer**.  
