@@ -47,21 +47,11 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giorgioserghei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=giorgioserghei&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak"/>
-</p>
-
-
----
 
 ### 💬 Contatti
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-ff3860?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/giorgioserghei" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:giorgio.piu98@gmail.com"><img src="https://img.shields.io/badge/Email-ff3860?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
