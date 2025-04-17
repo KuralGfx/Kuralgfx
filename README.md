@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-🌐 <a href="https://kural.it">Portfolio</a> • 💼 <a href="http://wolfdevelopment.it/">CEO @ WolfDevelopment</a> • 📧 giorgio.piu98@gmail.com  
+🌐 <a href="https://gsp.wuaze.com">Website</a> • 📧 giorgio.piu98@gmail.com  
 </p>
 
 ---
