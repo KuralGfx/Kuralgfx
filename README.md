@@ -45,17 +45,6 @@
 - 🔐 Configurazione DNS, mail aziendali, PEC
 - 🧰 Assistenza tecnica, hosting e gestione domini
 
----
-
-
-### 💬 Contatti
-
-<p align="center">
-  <a href="mailto:giorgio.piu98@gmail.com"><img src="https://img.shields.io/badge/Email-ff3860?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:3A0CA3&height=120&section=footer"/>
 </p>
